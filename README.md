@@ -2,7 +2,7 @@
 I’m a tech enthusiast and Computer Science student who’s passionate about Artificial Intelligence.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://linkedin.com/in/firza-hadzami/) [![Discord](https://img.shields.io/badge/Discord-firzahdzm-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/firzahdzm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://linkedin.com/in/firza-hadzami/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/firzahdzm)
 
 
 # 💻 Tech Stack:
